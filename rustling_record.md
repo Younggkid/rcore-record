@@ -1,4 +1,6 @@
 # rustling练习记录
+## 3.31
+复习了String和&str, 就记住String是字符串类型，&str是字符串的切片，在String前加&也可变成&str。
 ## 3.30
 复习了enum和struct, 常学常新。
 ## 3.29
