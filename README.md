@@ -3,3 +3,5 @@ This rep is a record for my progress in the [2023 Open-source rust-based-os camp
 Welcome to discuss with me about rust、RISC-V、OS……
 ## First Part
 [Rustlings record](https://github.com/Younggkid/rcore-record/blob/master/rustling_record.md)
+## Second Part
+[rcore record](https://github.com/Younggkid/rcore-record/blob/master/rcore.md)
